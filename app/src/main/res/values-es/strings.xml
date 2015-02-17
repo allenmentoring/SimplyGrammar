@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simplemente Gramática</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Ajustes</string>
+    <string name="button_send">Envía</string>
+    <string name="title_activity_display_message">Mi Mensaje</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="secret_code">Por favor código secreto de entrada…</string>
+
+</resources>
